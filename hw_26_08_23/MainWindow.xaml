@@ -11,23 +11,45 @@
             <RowDefinition />
             <RowDefinition />
             <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
         </Grid.RowDefinitions>
         <Grid.ColumnDefinitions>
             <ColumnDefinition />
             <ColumnDefinition />
             <ColumnDefinition />
+            <ColumnDefinition />
+            <ColumnDefinition />
         </Grid.ColumnDefinitions>
 
-        <Button Margin="5" Grid.Column="0" Grid.Row="0">1</Button>
-        <Button Margin="5" Grid.Column="1" Grid.Row="0">2</Button>
-        <Button Margin="5" Grid.Column="2" Grid.Row="0">3</Button>
+        <Button Margin="5" Grid.Column="0" Grid.Row="0"></Button>
+        <Button Margin="5" Grid.Column="1" Grid.Row="0"></Button>
+        <Button Margin="5" Grid.Column="2" Grid.Row="0"></Button>
+        <Button Margin="5" Grid.Column="3" Grid.Row="0"></Button>
+        <Button Margin="5" Grid.Column="4" Grid.Row="0"></Button>
 
-        <Button Margin="5" Grid.Column="0" Grid.Row="1">4</Button>
-        <Button Margin="5" Grid.Column="1" Grid.Row="1">5</Button>
-        <Button Margin="5" Grid.Column="2" Grid.Row="1">6</Button>
+        <Button Margin="5" Grid.Column="0" Grid.Row="1"></Button>
+        <Button Margin="5" Grid.Column="1" Grid.Row="1"></Button>
+        <Button Margin="5" Grid.Column="2" Grid.Row="1"></Button>
+        <Button Margin="5" Grid.Column="3" Grid.Row="1"></Button>
+        <Button Margin="5" Grid.Column="4" Grid.Row="1"></Button>
 
-        <Button Margin="5" Grid.Column="0" Grid.Row="2">7</Button>
-        <Button Margin="5" Grid.Column="1" Grid.Row="2">8</Button>
-        <Button Margin="5" Grid.Column="2" Grid.Row="2">9</Button>
+        <Button Margin="5" Grid.Column="0" Grid.Row="2"></Button>
+        <Button Margin="5" Grid.Column="1" Grid.Row="2"></Button>
+        <Button Margin="5" Grid.Column="2" Grid.Row="2"></Button>
+        <Button Margin="5" Grid.Column="3" Grid.Row="2"></Button>
+        <Button Margin="5" Grid.Column="4" Grid.Row="2"></Button>
+
+        <Button Margin="5" Grid.Column="0" Grid.Row="3"></Button>
+        <Button Margin="5" Grid.Column="1" Grid.Row="3"></Button>
+        <Button Margin="5" Grid.Column="2" Grid.Row="3"></Button>
+        <Button Margin="5" Grid.Column="3" Grid.Row="3"></Button>
+        <Button Margin="5" Grid.Column="4" Grid.Row="3"></Button>
+
+        <Button Margin="5" Grid.Column="0" Grid.Row="4"></Button>
+        <Button Margin="5" Grid.Column="1" Grid.Row="4"></Button>
+        <Button Margin="5" Grid.Column="2" Grid.Row="4"></Button>
+        <Button Margin="5" Grid.Column="3" Grid.Row="4"></Button>
+        <Button Margin="5" Grid.Column="4" Grid.Row="4"></Button>
     </Grid>
 </Window>
