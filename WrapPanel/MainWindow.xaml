@@ -7,6 +7,28 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="2*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <WrapPanel>
+            <Button Margin="3" Background="Navy">Navy</Button>
+            <Button Margin="3" Background="Blue">Blue</Button>
+            <Button Margin="3" Background="Aqua">Aqua</Button>
+            <Button Margin="3" Background="Teal">Teal</Button>
+            <Button Margin="3" Background="Olive">Olive</Button>
+            <Button Margin="3" Background="Green">Green</Button>
+            <Button Margin="3" Background="Lime">Lime</Button>
+            <Button Margin="3" Background="Yellow">Yellow</Button>
+            <Button Margin="3" Background="Orange">Orange</Button>
+            <Button Margin="3" Background="Red">Red</Button>
+            <Button Margin="3" Background="Maroon">Maroon</Button>
+            <Button Margin="3" Background="Fuchsia">Fuchsia</Button>
+            <Button Margin="3" Background="Purple">Purple</Button>
+            <Button Margin="3" Background="Black">Black</Button>
+            <Button Margin="3" Background="Silver">Silver</Button>
+            <Button Margin="3" Background="Gray">Gray</Button>
+            <Button Margin="3" Background="White">White</Button>
+        </WrapPanel>
     </Grid>
 </Window>
