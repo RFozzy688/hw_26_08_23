@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "hw_26_08_23", "hw_26_08_23\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WrapPanel", "WrapPanel\WrapPanel.csproj", "{3539334B-A963-4D27-BA6F-B0CF6213718D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calc", "Calc\Calc.csproj", "{C21B734D-51B6-415A-9E90-9595F111A8C7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{3539334B-A963-4D27-BA6F-B0CF6213718D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3539334B-A963-4D27-BA6F-B0CF6213718D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3539334B-A963-4D27-BA6F-B0CF6213718D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C21B734D-51B6-415A-9E90-9595F111A8C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C21B734D-51B6-415A-9E90-9595F111A8C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C21B734D-51B6-415A-9E90-9595F111A8C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C21B734D-51B6-415A-9E90-9595F111A8C7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
